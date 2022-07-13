@@ -1,0 +1,6 @@
+
+*.zip
+
+playground/task1_classic_classification/taskprog_features_task1_train.json
+
+playground/task1_classic_classification/calms21_task1_test.json
