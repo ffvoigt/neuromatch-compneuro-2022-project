@@ -13,20 +13,22 @@ Files for the NMA 2022 behavior project
 ## Notebook overview
 
 ### Preprocessing Notebook
+Downloads Caltech data and converts it into a Pandas DataFrame for upstream analysis
+
 * [Preprocessing Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb) 
 
 * [Preprocessing Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb)
 
-**Preprocessing Notebook (tbd)** - downloads Caltech data and converts it into a Pandas DataFrame for upstream analysis
 
 ### Feature Extraction Notebook
 Takes the preprocessed tracking data and adds handcrafted features to it.
+
 * [Feature Extraction Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/Feature_Extraction_NM2022_Sfenj1.ipynb) 
 
 * [Feature Extraction Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/Feature_Extraction_NM2022_Sfenj1.ipynb)
 
 ### Classification Notebook
-* **Classification Notebook (tbd)** - performs classification
+Performs the actual classification
  
 ## Useful links
 * [Dataset overview](https://sites.google.com/view/computational-behavior/our-datasets/calms21-dataset)
