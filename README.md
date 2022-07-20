@@ -13,9 +13,9 @@ Files for the NMA 2022 behavior project
 ## Notebook overview
 
 ### Preprocessing Notebook
-* [Preprocessing Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/CalTech_Preprocessing_NMA2022_Sfenj1) 
+* [Preprocessing Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb) 
 
-* [Preprocessing Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/CalTech_Preprocessing_NMA2022_Sfenj1)
+* [Preprocessing Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb)
 
 **Preprocessing Notebook (tbd)** - downloads Caltech data and converts it into a Pandas DataFrame for upstream analysis
 
