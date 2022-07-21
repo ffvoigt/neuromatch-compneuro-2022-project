@@ -19,6 +19,9 @@ Files for the NMA 2022 behavior project
 * [Introduction to Git and Github by W3](https://www.w3schools.com/git/git_intro.asp?remote=github)
 
 ## Notebook overview
+> **Warning**
+> The links below open the notebooks from the ffvoigt repository on Github, not the notebooks in your forked 
+> notebooks
 
 ### Preprocessing Notebook
 Downloads Caltech data and converts it into a Pandas DataFrame for upstream analysis
