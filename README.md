@@ -1,5 +1,7 @@
 # neuromatch-compneuro-2022-project
-Files for the NMA 2022 behavior project
+Files for the NMA 2022 behavior project by the Sfenj1 group
+> **Warning**
+> You can now open the notebooks by opening them in Github (click above) and then use the "Open in Colab" link
 
 ## Structure 
 * There is a `main` and a `development` branch (see dropdown menu on the top left)
@@ -18,25 +20,5 @@ Files for the NMA 2022 behavior project
 ## Resources to learn Github
 * [Introduction to Git and Github by W3](https://www.w3schools.com/git/git_intro.asp?remote=github)
 
-## Notebook overview
-
-### Preprocessing Notebook
-Downloads Caltech data and converts it into a Pandas DataFrame for upstream analysis
-
-* [Preprocessing Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb) 
-
-* [Preprocessing Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/CalTech_Preprocessing_NMA2022_Sfenj1.ipynb)
-
-
-### Feature Extraction Notebook
-Takes the preprocessed tracking data and adds handcrafted features to it.
-
-* [Feature Extraction Notebook **Main Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/main/playground/Feature_Extraction_NM2022_Sfenj1.ipynb) 
-
-* [Feature Extraction Notebook **Development Branch** (open in Colab)](https://colab.research.google.com/github/ffvoigt/neuromatch-compneuro-2022-project/blob/development/playground/Feature_Extraction_NM2022_Sfenj1.ipynb)
-
-### Classification Notebook
-Performs the actual classification
- 
 ## Useful links
 * [Dataset overview](https://sites.google.com/view/computational-behavior/our-datasets/calms21-dataset)
